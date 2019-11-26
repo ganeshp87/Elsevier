@@ -1,0 +1,7 @@
+2019-11-25 19:49:17,581  INFO [main] TestRunner:28 - Screen Recordings Starting
+2019-11-25 19:49:17,791  INFO [main] ElsevierStepDefination:26 - Elsevier Test Started
+2019-11-25 19:49:18,933  INFO [main] WebDriverManager:600 - Using chromedriver 78.0.3904.105 (since Google Chrome 78 is installed in your machine)
+2019-11-25 19:49:18,973  INFO [main] WebDriverManager:1078 - Exporting webdriver.chrome.driver as C:\Users\Ganesh P\.m2\repository\webdriver\chromedriver\win32\78.0.3904.105\chromedriver.exe
+2019-11-25 19:49:32,095  INFO [main] ElsevierStepDefination:37 - Home Page URL is My Store
+2019-11-25 19:49:48,886  INFO [main] ElsevierStepDefination:93 - Elsevier Test Completed
+2019-11-25 19:49:49,217  INFO [main] TestRunner:35 - Screen Recordings Ending

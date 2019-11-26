@@ -1,0 +1,9 @@
+stepDefinitions\MyScreenRecorder.class
+com\elsevier\qe\pages\SummerDressPageObjects.class
+com\elsevier\qe\base\TestBase.class
+com\elsevier\qe\pages\HomePageObjects.class
+stepDefinitions\ElsevierStepDefination.class
+com\elsevier\qe\util\WebelementConstant.class
+com\elsevier\qe\pages\SignInPageObjects.class
+com\elsevier\qe\pages\ShoppingCartSummaryPageObjects.class
+com\elsevier\qe\util\TestUtil.class
